@@ -35,5 +35,5 @@ I have a massive passion for hardware optimization and systems engineering, whic
 
 ### 🤝 Connect with Me
 
-*   **LinkedIn:** [[linkedin.com/in/your-profile](https://www.linkedin.com/in/dhanush-thirunavukkarasu-423027352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dhanush-thirunavukkarasu-423027352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
+*   **LinkedIn:** https://www.linkedin.com/in/dhanush-thirunavukkarasu-423027352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 *   **Email:** dhanushthiru@proton.me
